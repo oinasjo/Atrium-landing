@@ -749,6 +749,12 @@ footer{
                 line-height: 1.05;
             }
 
+            /* Sanni */
+            .wrapper {
+                position: relative;
+                overflow-x: hidden;
+            }
+
             .background-box{
                 z-index: -1000;
                 position: absolute;
